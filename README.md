@@ -3,8 +3,8 @@ In this repository you can download and play a simulator of a boat, equipped wit
 <br/>
 The simulator runs on Unity, and it is controlled using ROS2.<br/>
 ROS2 and Unity communicate using two packages:<br/>
--ROS-TCP-Connector​<br/>
--ROS-TCP-Endpoint<br/>
+     - ROS-TCP-Connector​<br/>
+     - ROS-TCP-Endpoint<br/>
 <br/>
 To run the project, follow these steps:<br/>
 1. Download the repository<br/>
