@@ -7,7 +7,7 @@ ROS2 and Unity communicate using two packages:<br/>
      - ROS-TCP-Endpoint<br/>
 <br/>
 To run the project, follow these steps:<br/>
-1. Download the repository<br/>
+1. Download the github repository and the simulator at the link: <br/>
 2. Open Unity, click on "Add project from disk" and select the folder called "Simulator"<br/>
 3. Run the Unity scene<br/>
 4. Open the Package Manager from Window -> Package Manager.<br/>
