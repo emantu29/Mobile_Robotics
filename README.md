@@ -26,8 +26,9 @@ _Note: UnitySensorsROS does not contain UnitySensors._ <br/>
 
 <br/>
 9. In terminal, run "ros2 run ros_tcp_endpoint default_server_endpoint"<br/>
-10. In another terminal run "ros2 run navrgbd target_following"
+10. In another terminal run "ros2 run navrgbd target_following"<br/>
 
 The softwares requirements and versions can be found in the file "requirements.txt"<br/>
+<br/>
 You can watch the video "Demonstration" to see how the boat works!
 
