@@ -16,7 +16,8 @@ To run the project, follow these steps:<br/>
      - For the UnitySensors, enter https://github.com/Field-Robotics-Japan/UnitySensors.git?path=/Assets/UnitySensors#v2.0.5<br/>
      - For the UnitySensorsROS, enter https://github.com/Field-Robotics-Japan/UnitySensors.git?path=/Assets/UnitySensorsROS#v2.0.5<br/>
 _Note: UnitySensorsROS does not contain UnitySensors._ <br/>
-5. Download ROS-TCP-Endpoint from the following link https://github.com/Unity-Technologies/ROS-TCP-Endpoint/releases/tag/ROS2v0.7.0
+5. Download ROS-TCP-Endpoint from the following link https://github.com/Unity-Technologies/ROS-TCP-Endpoint/releases/tag/ROS2v0.7.0 and paste it into the _src_ folder of your ROS2 directory<br/>  
+6. Paste the navrgbd folder into the _src_ folder of your ROS2 directory<br/>  
 <br/>
 <br/>
 The softwares requirements and versions can be found in the file "requirements.txt"
